@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title>Notebook</title></head>
+<body>
+  <h1>About the Notebook</h1>
+  <p>This page tells you more about the notebook shown in the image.</p>
+</body>
+</html>

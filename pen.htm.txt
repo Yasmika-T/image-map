@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title>Pen</title></head>
+<body>
+  <h1>About the Pen</h1>
+  <p>This page tells you more about the pen shown in the image.</p>
+</body>
+</html>

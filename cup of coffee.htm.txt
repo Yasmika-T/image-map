@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title>Cup of coffee</title></head>
+<body>
+  <h1>About the Cup of coffee</h1>
+  <p>This page tells you more about the cup of coffee shown in the image.</p>
+</body>
+</html>
